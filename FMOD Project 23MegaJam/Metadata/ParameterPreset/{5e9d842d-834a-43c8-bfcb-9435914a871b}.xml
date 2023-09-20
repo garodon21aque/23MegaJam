@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{5e9d842d-834a-43c8-bfcb-9435914a871b}">
+		<property name="name">
+			<value>AtmosIntensity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{948fd98b-4202-4b99-9be1-8d1aa5a3ac21}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{be1e54c4-4cae-48b3-8917-3d0e165d2fb5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{be1e54c4-4cae-48b3-8917-3d0e165d2fb5}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
