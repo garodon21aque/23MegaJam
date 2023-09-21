@@ -71,7 +71,11 @@
 			<destination>{93a56b4b-7300-4d58-be50-b05c4780acf7}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{83900931-59ae-44d7-81e7-0bb22a36bbfb}" />
+	<object class="Timeline" id="{83900931-59ae-44d7-81e7-0bb22a36bbfb}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
 	<object class="ParameterProxy" id="{ad61464a-3313-469b-b6f1-5949d52788fd}">
 		<relationship name="modules">
 			<destination>{b17e36ca-4974-4323-a926-8a7385d9fb6f}</destination>
@@ -142,7 +146,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{93a56b4b-7300-4d58-be50-b05c4780acf7}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Vocals</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{48e780c4-7f2d-4596-8e5e-48613868a708}</destination>
