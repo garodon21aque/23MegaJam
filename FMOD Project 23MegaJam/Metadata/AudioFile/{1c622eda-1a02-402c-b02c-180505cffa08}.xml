@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1c622eda-1a02-402c-b02c-180505cffa08}">
+		<property name="assetPath">
+			<value>Monster/Vocals/Monster_Vocal_Soft_003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.0896458333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5b795f9-d6c4-4c77-b16d-6e4908d12cd5}</destination>
+		</relationship>
+	</object>
+</objects>

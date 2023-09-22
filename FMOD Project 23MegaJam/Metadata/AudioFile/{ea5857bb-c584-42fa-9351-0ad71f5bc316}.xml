@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ea5857bb-c584-42fa-9351-0ad71f5bc316}">
+		<property name="assetPath">
+			<value>Interactable/Crank/Interactable_PickUp_Crank_001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.76104166666666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5b795f9-d6c4-4c77-b16d-6e4908d12cd5}</destination>
+		</relationship>
+	</object>
+</objects>
